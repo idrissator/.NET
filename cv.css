@@ -1,0 +1,109 @@
+body
+{
+	background: lightgrey;
+	margin-left: 25%;
+}
+
+div
+{
+	margin-bottom: 10px;
+	margin-top: 10px;
+	border-radius: 	8px;
+}
+
+.infophoto
+{
+	border: 2px solid navy;
+	margin-left: 20px;
+	width: 95%;
+	height: 22%;
+}
+
+.info
+{
+	border: 2px solid navy;
+	margin-left: 20px;
+	width: 95%;
+	height: 22%;
+}
+.section
+{
+	border: 2px solid navy;
+	margin-left: 20px;
+	width: 95%;
+	height: 22%;
+}
+
+.sec-gauche
+{
+	border: 2px solid navy;
+	margin-left: 20px;
+	width: 95%;
+	height: 24%;
+}
+
+.sec-droite
+{
+	border: 2px solid navy;
+	margin-left: 20px;
+	width: 95%;
+	height: 22%;
+}
+.h2
+{
+	border: 2px solid white;
+	margin-left: 20px;
+	width: 70%;
+	height: 50%;
+	float: left;
+}
+.duree
+{
+	border: 2px solid white;
+	margin-left: 20px;
+	width: 25%;
+	height: 50%;
+	float: left;
+}
+.titre
+{
+	border: 2px solid white;
+	width: 25%;
+	height: 55%;
+	float: left;
+}
+.d44
+{
+	border: 2px solid white;
+	margin-left: 20px;
+	width: 25%;
+	height: 55%;
+	float: left;
+}
+.d444
+{
+	border: 2px solid white;
+	width: 70%;
+	height: 55%;
+	float: left;
+}
+.d55
+{
+	border: 2px solid white;
+	margin-left: 20px;
+	width: 25%;
+	height: 50%;
+	float: left;
+}
+.d555
+{
+	border: 2px solid white;
+	width: 70%;
+	height: 55%;
+	float: left;
+}
+li
+{
+	list-style: none;
+}
+
