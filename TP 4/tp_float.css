@@ -1,0 +1,23 @@
+div.block1 {
+	background-color: blue;
+	height: 200px;
+	wigth: 200px;
+	float: left;
+	margin: 10px;
+}
+div.block2 {
+	background-color: red;
+	height: 200px;
+	wigth: 150px;
+	float: left;
+	margin-left: 20px;
+	margin: 10px;
+}
+div.block3 {
+	background-color: green;
+	height: 180px;
+	wigth: 200px;
+	margin-left: 20px;
+	margin: 10px;
+	clear: both;
+}
