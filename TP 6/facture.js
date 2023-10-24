@@ -14,7 +14,7 @@ function Facture() {
     var k = Number(h)+Number(j);
     t17.value=(k)
 
-    var somme = Number(k)*Number(c)*Number(f);
+    var somme = Number(k)+Number(c)+Number(f);
     t7.value=(somme)
 
 }
