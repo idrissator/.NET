@@ -1,23 +1,23 @@
 function test_couleur(){
     let c = prompt("Donner une couleur")
     if(c == "rouge" || c == "ROUGE"){
-        document.top = "red";
+        document.body.style.background = "red";
     }
     else if (c == "bleu" || c == "BLEU"){
-        document.top = "blue";
+        document.body.style.background = "blue";
 
     }
     else if (c == "rose" || c == "ROSE"){
-        document.top.style = "pink";
+        document.body.style.background = "pink";
     }
     else if (c == "vert" || c == "VERT"){
-        document.top.style = "green";
+        document.body.style.background = "green";
     }
     else if (c == "noir" || c == "Noir"){
-        document.top.style = "black";
+        document.body.style.background = "black";
     }
     else if (c == "jaune" || c == "JAUNE"){
-        document.top.style = "yellow";
+        document.body.style.background = "yellow";
     }            
     else{
         document.write("Couleur non comprise")
